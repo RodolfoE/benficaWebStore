@@ -7,7 +7,7 @@
 6 silly lifecycle angular-material@0.0.0~prestart: no script for prestart, continuing
 7 info lifecycle angular-material@0.0.0~start: angular-material@0.0.0
 8 verbose lifecycle angular-material@0.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle angular-material@0.0.0~start: PATH: /usr/lib/node_modules/npm/bin/node-gyp-bin:/home/rodolffo/Documents/projects/angular-material/node_modules/.bin:/home/rodolffo/bin:/home/rodolffo/.local/bin:/home/rodolffo/bin:/home/rodolffo/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+9 verbose lifecycle angular-material@0.0.0~start: PATH: /usr/lib/node_modules/npm/bin/node-gyp-bin:/home/rodolffo/Documents/projects/angular-material/node_modules/.bin:/home/rodolffo/bin:/home/rodolffo/.local/bin:/home/rodolffo/bin:/home/rodolffo/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
 10 verbose lifecycle angular-material@0.0.0~start: CWD: /home/rodolffo/Documents/projects/angular-material
 11 silly lifecycle angular-material@0.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 12 silly lifecycle angular-material@0.0.0~start: Returned: code: 1  signal: null
